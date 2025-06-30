@@ -1,4 +1,4 @@
-# 👋 Hi, there! I'm 落叶Rakuyou
+# 👋 Hi, there! I'm Rakuyou
 
 > A passionate **GISer** and **Programmer** from China 🇨🇳
 
